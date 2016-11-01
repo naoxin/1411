@@ -18,9 +18,6 @@ import com.example.liyan.nihaoa.R;
 
 
 
-/**
- * Created by liyan on 2016/10/31.
- */
 
 public class GuaguaKaView extends View {
     private Paint mPaint, mTPaint;
