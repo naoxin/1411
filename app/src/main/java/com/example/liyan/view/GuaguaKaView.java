@@ -31,6 +31,7 @@ public class GuaguaKaView extends View {
         super(context, null);
     }
 
+
     public GuaguaKaView(Context context, AttributeSet attrs) {
         this(context, attrs, 0);
     }
